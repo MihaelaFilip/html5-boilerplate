@@ -9,4 +9,4 @@ dist
 /credentials.py
 
 #ignore folder
-text/*.txt
+text/ *.txt
